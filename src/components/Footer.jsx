@@ -51,9 +51,9 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-mono text-sm mb-3 uppercase tracking-wider">Contacto</h4>
             <div className="space-y-2 mb-4">
-              <a href="mailto:contacto@blendsoftware.com.ar" className="flex items-center gap-2 text-white/60 hover:text-white text-xs font-mono transition-colors">
+              <a href="mailto:contactoblendsoftware@gmail.com" className="flex items-center gap-2 text-white/60 hover:text-white text-xs font-mono transition-colors">
                 <Mail className="w-4 h-4" />
-                contacto@blendsoftware.com.ar
+                contactoblendsoftware@gmail.com
               </a>
             </div>
             <div className="flex gap-3">
