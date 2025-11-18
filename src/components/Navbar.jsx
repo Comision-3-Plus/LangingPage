@@ -31,7 +31,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center gap-4">
             <img src={logo} alt="Blend Software" className="h-20 md:h-24 w-auto brightness-125" />
-            <span className="text-white font-mono tracking-tight text-xl md:text-2xl font-bold">BLEND_SOFTWARE</span>
+            <span className="text-white font-mono tracking-tight text-xl md:text-2xl font-bold">BLEND SOFTWARE</span>
           </div>
 
           {/* Desktop Menu */}

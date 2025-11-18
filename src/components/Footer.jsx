@@ -13,7 +13,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-4 mb-4">
               <img src={logo} alt="Blend Software" className="h-24 md:h-28 w-auto brightness-125" />
-              <h3 className="text-2xl md:text-3xl font-bold text-white font-mono tracking-tight">BLEND_SOFTWARE</h3>
+              <h3 className="text-2xl md:text-3xl font-bold text-white font-mono tracking-tight">BLEND SOFTWARE</h3>
             </div>
             <p className="text-white/60 text-xs font-mono">
               Software de alta complejidad desde Mendoza, Argentina.
